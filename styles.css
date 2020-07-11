@@ -1,0 +1,44 @@
+.container{
+    width: 100%;
+    height: 100%;
+    background: blueviolet;
+}
+h1{
+    size: 15cm;
+    height: 5cm;
+    color: blueviolet;
+    position: relative;
+    left: 50px;
+}
+h2{
+    color: rgb(6, 230, 6);
+    position: relative;
+    top: 40;
+    left: 100px;
+    
+}
+p{
+    color: blueviolet;
+    position: relative;
+    left: 200px;
+    bottom: 180px;
+}
+
+    body{
+        background-image: url('file:///C:/Users/sighm/lc101/assignment4/html-me-something/images/space2.png');
+        background-size: 1920px 1080px;
+        background-repeat: no-repeat;
+        }
+
+    p {
+        margin-top: 100px;
+        margin-bottom: 100px;
+        margin-right: 150px;
+        margin-left: 80px;
+      }
+      figure1{
+        position: relative;
+        bottom: 175px;
+        left: 40px;
+       
+      }
